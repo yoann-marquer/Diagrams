@@ -20,9 +20,6 @@
         <mxCell id="eMOk0DGojVkaVqaWsdeQ-4" value="&lt;div&gt;Crosstalk&lt;/div&gt;&lt;div&gt;analysis&lt;br&gt;&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;strokeColor=#121212;fontSize=15;fillColor=#fdfcfc;" parent="1" vertex="1">
           <mxGeometry x="182" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qd8Z9BV7FsohcCPeds0F-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eMOk0DGojVkaVqaWsdeQ-5" target="eMOk0DGojVkaVqaWsdeQ-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eMOk0DGojVkaVqaWsdeQ-5" value="&lt;div&gt;Allocation&lt;/div&gt;&lt;div&gt;algorithm&lt;br&gt;&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;strokeColor=#121212;fontSize=15;fillColor=#fdfcfc;" parent="1" vertex="1">
           <mxGeometry x="302" y="178" width="120" height="82" as="geometry" />
         </mxCell>
