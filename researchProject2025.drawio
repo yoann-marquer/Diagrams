@@ -209,7 +209,7 @@
             <mxPoint x="772" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ychqdGXQUVl_SIHGtclr-30" value="&lt;div&gt;graphe de&lt;/div&gt;&lt;div&gt;dépendances&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="ychqdGXQUVl_SIHGtclr-30" value="&lt;div&gt;graphe de&lt;/div&gt;&lt;div&gt;dépendance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="884.45" y="185.25" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ychqdGXQUVl_SIHGtclr-31" value="Analyse de discernabilité" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;strokeColor=#6c8ebf;fontSize=15;fillColor=#dae8fc;" parent="1" vertex="1">
