@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="982gyeF62y9UsF95akiq">
-    <mxGraphModel dx="909" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="740" pageHeight="420" math="0" shadow="0">
+    <mxGraphModel dx="1299" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="740" pageHeight="420" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,12 +9,6 @@
         </mxCell>
         <mxCell id="LqAJjOGj0EOW5YZ_SDEt-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=light-dark(#000000, #bec8d4);strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" value="" vertex="1">
           <mxGeometry height="50.5" width="36.9" x="64.65" y="256" as="geometry" />
-        </mxCell>
-        <mxCell id="LqAJjOGj0EOW5YZ_SDEt-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="LqAJjOGj0EOW5YZ_SDEt-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="256.54999999999995" y="160" as="sourcePoint" />
-            <mxPoint x="434.45" y="-410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ychqdGXQUVl_SIHGtclr-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;système&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;logiciel 1&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="90" x="35.050000000000225" y="306.5" as="geometry" />
